@@ -12,57 +12,82 @@
 
 <!-- Hero Section / Introduction -->
 <h1 align="center">Hey there, I'm Rouzbeh Azargoshasbi 👋</h1>
+
 <p align="center">
   <em>
     M.Sc. in Transportation Engineering | Sustainable System Design & Optimization | Big Data & Machine Learning
   </em>
 </p>
 
-<!-- Profile Views (Optional) -->
+<!-- Profile Views (Optional) --
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&style=flat-square" alt="Profile Views" />
 </p>
 
----
+-->
 
 ## :wave: About Me
-- I’m a **Transportation Engineer** and **Data Scientist** specialized in sustainable system design, network resilience analysis, and transportation optimization.  
-- I enjoy solving real-world challenges by integrating **big data** techniques, **machine learning**, and robust optimization approaches.  
-- My experience spans from **dashboards** (Power BI, Tableau) to complex **deterministic and stochastic** modeling of large-scale systems.
+I’m Rouzbeh Azargoshasbi—a data detective and optimization geek with a B.Sc. in Industrial Engineering (plus a minor in Economics). I’ve tackled everything from discount strategies at a dairy company to designing resilience metrics for transportation networks. Armed with Python, R, MATLAB, SQL, and advanced optimization methods (stochastic, dynamic, MIP), I thrive on turning data into sustainable, real-world solutions.
+
+I also have a soft spot for teaching statistics—shedding light on how numbers can shape smarter decisions. Right now, I’m exploring AI-driven ideas to automate routine tasks and boost infrastructure toward a greener, more efficient future. Let’s collaborate and engineer a better tomorrow—one line of code at a time.
+
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:roozbeh.azargoshasbi@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rouzbeh-azargoshasbi/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rouzbeh-az)
 
 ---
 
 ## :star: Highlights
 
-- Specialized in **sustainable system design**, **network resilience analysis**, **transportation systems optimization**, **big data**, and **statistical analysis**.  
-- Proficient in **Power BI**, **Tableau**, **SQL**, and **Python**, with experience creating dashboards and analyzing **transportation** and **APC** data.  
-- Skilled in **statistical analysis**, **transportation optimization**, and **network resilience analysis**.  
-- Expertise in transportation planning with **EMME**, mapping in **QGIS**, and dashboard creation with **Power BI** and **Tableau**.  
-- Well-versed in supervised ML (Regression, Classification), advanced learning algorithms (Neural Networks, Decision Trees), and unsupervised time-series learning.  
-- Developed and solved **deterministic** and **stochastic** optimization models for real-world problems with multiple objectives (both discrete and continuous decision variables).  
-- Experienced in **optimizing electric and hydrogen fuel cell transit lines** and conducting feasibility studies for **sustainable system adaptation**.  
-- Strong **Python** background: big data/statistical analysis (Pandas, NumPy), optimization (PuLP, PySP, Pyomo), network analysis (iGraph, NetworkX), data visualization (Matplotlib, Folium), machine learning (scikit-learn, NumPy), deep learning (TensorFlow).  
-- Possess strong analytical, problem-solving, and decision-making skills with a proven track record of developing innovative solutions—both independently and in teams.  
-- Demonstrated ability to manage priorities, maintain excellent communication, and ensure quality assurance in fast-paced, collaborative projects.
+- 🌱 **Sustainability & Resilience**: Focuses on electric/hydrogen transit lines and network resilience analysis.
+- ⚙️ **Optimization Expertise**: Skilled in deterministic/stochastic modeling (MIP, dynamic, reinforcement learning) for practical solutions.
+- ⚡ **Data & Dashboarding**: Proficient in SQL, Python, and BI tools (Power BI, Tableau) for large-scale data (APC, transportation, etc.).
+- 🗺️ **Geospatial Applications**: Employs EMME, QGIS, and robust analytics (Pandas, NumPy, scikit-learn) for data-driven decisions.
+- 🤖 **Machine Learning**: Competent in supervised (regression, classification), unsupervised (time-series), and advanced structures (Neural Nets, Decision Trees).
+- 🏆 **Teamwork & Communication**: Balances priorities under tight deadlines, mentors peers in statistics, and consistently delivers collaborative results.
+
+
 
 ---
 
 ## :computer: Technical Skills
-
-| **Category**                               | **Tools/Technologies**                                                           |
-|--------------------------------------------|----------------------------------------------------------------------------------|
-| **Programming Languages**                  | Python, R, MATLAB                                                                |
-| **Data Analysis**                          | SQL (MySQL, BigQuery), Tableau, Power BI, MS Excel                               |
-| **Data Science & Machine Learning**        | Pandas, NumPy, scikit-learn, MS Excel, TensorFlow, STATA                         |
-| **Cloud & Version Control**                | Azure, GitHub                                                                    |
-| **Transportation Modeling**                | EMME                                                                             |
-| **Web Frameworks**                         | Streamlit, FastAPI                                                               |
-| **Optimization & Simulation Tools**        | PuLP, PySP, Pyomo, GAMS, CPLEX, Lingo, Arena, Vensim                             |
-| **Data Visualization**                     | Matplotlib, seaborn, plotly, Folium, Tableau, Power BI                           |
-| **Design & Drafting**                      | QGIS, AutoCAD                                                                    |
-| **Document Preparation**                   | MS Word, MS PowerPoint, LaTeX                                                    |
-
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=MathWorks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black)
+![MS%20Excel](https://img.shields.io/badge/MS%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![STATA](https://img.shields.io/badge/STATA-1E90FF?style=flat&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=Microsoft-Azure&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![EMME](https://img.shields.io/badge/EMME-0975B7?style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PuLP](https://img.shields.io/badge/PuLP-3776AB?style=flat&logo=python&logoColor=white)
+![PySP](https://img.shields.io/badge/PySP-3776AB?style=flat&logo=python&logoColor=white)
+![Pyomo](https://img.shields.io/badge/Pyomo-3776AB?style=flat&logo=python&logoColor=white)
+![GAMS](https://img.shields.io/badge/GAMS-1f425f?style=flat)
+![CPLEX](https://img.shields.io/badge/CPLEX-005386?style=flat)
+![Lingo](https://img.shields.io/badge/Lingo-2C2255?style=flat)
+![Arena](https://img.shields.io/badge/Arena-007AAE?style=flat)
+![Vensim](https://img.shields.io/badge/Vensim-2C2255?style=flat)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-11557C?style=flat&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-009639?style=flat)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=flat&logo=autodesk&logoColor=white)
+![MS%20Word](https://img.shields.io/badge/MS%20Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
+![MS%20PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 ## :memo: Projects & Portfolio
 
@@ -147,8 +172,7 @@ _University of Calgary, Canada_
 
 ## :mailbox: Connect with Me
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?logo=Linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/rouzbeh-azargoshasbi/)
-[![Email Badge](https://img.shields.io/badge/-Email-D14836?logo=Gmail&logoColor=white&style=flat)](mailto:rouzbeh.azargoshasbi@ucalgary.ca)
+
 
 ---
 <!--
