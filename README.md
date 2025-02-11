@@ -153,13 +153,6 @@ _University of Calgary, Canada_
 - **Minor Degree – Economics** (GPA: 4.0)  
   _Sharif University of Technology_
 
----
-
-## :mailbox: Connect with Me
-
-
-
----
 <!--
 ## :bar_chart: GitHub Stats (Optional)
 
