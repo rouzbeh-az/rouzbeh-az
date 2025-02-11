@@ -23,7 +23,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&style=flat-square" alt="Profile Views" />
 </p>
-
 -->
 
 ## :wave: About Me
@@ -35,20 +34,6 @@ I also have a soft spot for teaching statistics—shedding light on how numbers 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rouzbeh-azargoshasbi/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rouzbeh-az)
 
----
-
-## :star: Highlights
-
-- 🌱 **Sustainability & Resilience**: Focuses on electric/hydrogen transit lines and network resilience analysis.
-- ⚙️ **Optimization Expertise**: Skilled in deterministic/stochastic modeling (MIP, dynamic, reinforcement learning) for practical solutions.
-- ⚡ **Data & Dashboarding**: Proficient in SQL, Python, and BI tools (Power BI, Tableau) for large-scale data (APC, transportation, etc.).
-- 🗺️ **Geospatial Applications**: Employs EMME, QGIS, and robust analytics (Pandas, NumPy, scikit-learn) for data-driven decisions.
-- 🤖 **Machine Learning**: Competent in supervised (regression, classification), unsupervised (time-series), and advanced structures (Neural Nets, Decision Trees).
-- 🏆 **Teamwork & Communication**: Balances priorities under tight deadlines, mentors peers in statistics, and consistently delivers collaborative results.
-
-
-
----
 
 ## :computer: Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
